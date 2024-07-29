@@ -17,7 +17,7 @@ I am a Master of Science graduate specializing in Artificial Intelligence from t
 - **Mechanized Inhaling Smoking Tool (MIST)**: Created a cost-effective vape simulation device for biomedical research.
 - **Human Pose Estimation**: Used CUDA and CuDNN in GPU-accelerated ML models to generate 3D body models for occupational hazard therapy.
 
-For more detailed information about my projects and experience, please check out my [resume](https://buffalo.box.com/s/oo57egmu80n0fk33ebon50pydogpb2iw).
+For more detailed information about my projects and experience, please check out my [resume]([https://buffalo.box.com/s/oo57egmu80n0fk33ebon50pydogpb2iw](https://buffalo.box.com/s/9xfx1ny4gd4kukevsdp97xe1s99xotnf)).
 
 <!---
 dgusain/dgusain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
