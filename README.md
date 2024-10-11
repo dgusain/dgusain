@@ -1,4 +1,17 @@
-## Hi there, I’m Dakshesh Gusain (@dgusain)
+# 👋 Hi there, I'm Dakshesh Gusain
+
+<!-- Resume, LeetCode, and Website Links -->
+<p align="center">
+  📄 <a href="./dgusain_rbi_resume.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/dgusain_31/">LeetCode</a> | 🌐 <a href="https://github.com/dgusain">GitHub</a> | 🌐 <a href="https://linkedin.com/in/dgusain04">LinkedIn</a>
+</p>
+
+<!-- Dynamic Typing SVG for Welcome Message -->
+<!-- Centered Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+GitHub+Page!" alt="Typing SVG">
+  </a>
+</div>
 
 - 👀 I’m interested in artificial intelligence, machine learning, computer vision, and neuroscience.
 - 🌱 I’m currently learning quantization of large language models like GPT-2, Stable-LM-Zephyr, Google Gemma-2, TinyLLama etc., 
