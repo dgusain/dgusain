@@ -122,11 +122,10 @@
   - **Achievements:** Developed a novel metric, capable of representing the information of 32 EEG channels across 5 brain frequency waves, providing a definitive comparison of attention. 
   - **Extra mile:** Performed next frame prediction of the human brain neural activity using GANs and CNN+LSTM models to predict the next state of the human brain.  
 
-<td width="25%">
-  <div style="width: 200px; height: 200px; overflow: hidden;">
-    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="200" height="200" style="position: relative; clip-path: inset(40px 0px 0px 0px);">
-  </div>
-</td>
+  </td>
+  <td width="25%">
+    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="250" height="250">
+  </td>
 
 </tr>
 </table>
