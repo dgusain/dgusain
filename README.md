@@ -110,6 +110,25 @@
 </tr>
 </table>
 
+<table>
+<tr>
+  <td width="75%">
+
+  ### [NeuroBeatsDL](https://github.com/dgusain/NeuroBeatsDL)  
+  *July 2024 ‑ August 2024*      [![NeuroBeatsDL](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/NeuroBeatsDL)
+
+  - **Project:** A deep learning analysis of the human brain's topographical maps in order to compare changes in attention span, in the presence and absence of external stimuli (like white noise). 
+  - **Technologies:** **EEGLAB**, **MATLAB**, **Variational Autoencoders**, **Conditional Generative Adversarial Networks (GANs)**, **CNN,LSTM models**, **Python**, **BioSemi ActiveView2**.
+  - **Achievements:** Developed a novel metric, capable of representing the information of 32 EEG channels across 5 brain frequency waves, as a scalar value, at each timestamp. This metric clearly shows the difference between the attention observed in the presence and absence of white noise.
+  - **Extra mile:** Performed next frame prediction of the human brain neural activity using GANs and CNN+LSTM models to predict the next state of the human brain.  
+
+  </td>
+  <td width="25%">
+    <img src="https://github.com/user-attachments/assets/NeuroBeatsDL" alt="NeuroBeatsDL" width="200" height="150">
+  </td>
+</tr>
+</table>
+
 
 
 ## 🎓 Education
