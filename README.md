@@ -124,7 +124,7 @@
 
 <td width="25%">
   <div style="width: 200px; height: 200px; overflow: hidden;">
-    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="200" height="200" style="position: relative; clip-path: inset(10px 0px 0px 0px);">
+    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="200" height="200" style="position: relative; clip-path: inset(40px 0px 0px 0px);">
   </div>
 </td>
 
