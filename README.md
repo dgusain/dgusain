@@ -119,12 +119,12 @@
 
   - **Project:** A deep learning analysis of the human brain's topographical maps in order to compare changes in attention span, in the presence and absence of external stimuli (like white noise). 
   - **Technologies:** **EEGLAB**, **MATLAB**, **Variational Autoencoders**, **Conditional Generative Adversarial Networks (GANs)**, **CNN,LSTM models**, **Python**, **BioSemi ActiveView2**.
-  - **Achievements:** Developed a novel metric, capable of representing the information of 32 EEG channels across 5 brain frequency waves, as a scalar value, at each timestamp. This metric clearly shows the difference between the attention observed in the presence and absence of white noise.
+  - **Achievements:** Developed a novel metric, capable of representing the information of 32 EEG channels across 5 brain frequency waves, providing a definitive comparison of attention. 
   - **Extra mile:** Performed next frame prediction of the human brain neural activity using GANs and CNN+LSTM models to predict the next state of the human brain.  
 
   </td>
   <td width="25%">
-    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="200" height="150">
+    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="200" height="200">
   </td>
 </tr>
 </table>
