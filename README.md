@@ -124,7 +124,7 @@
 
   </td>
   <td width="25%">
-    <img src="(https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif)" alt="NeuroBeatsDL" width="200" height="150">
+    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="200" height="150">
   </td>
 </tr>
 </table>
