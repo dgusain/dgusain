@@ -114,7 +114,7 @@
 
 ## 🎓 Education
 
-<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  (*August 2023 – December 2024*)
+<img src="./university-at-buffalo.webp" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  (*August 2023 – December 2024*)
 | *Master of Science in Artificial Intelligence*      |  **GPA**: 3.45 / 4.0          |
 | :-------------------------------------------------- | ----------------------------: |
 
