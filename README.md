@@ -110,10 +110,32 @@
 </tr>
 </table>
 
+
+
 ## 🎓 Education
 
-<img src="https://github.com/user-attachments/assets/buffalo.png" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  (*August 2023 – December 2024*)
-"""
+<img src="https://github.com/user-attachments/assets/b20abb70-5506-4025-991b-a0e7a6ac6f64" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  (*August 2023 – December 2024*)
+| *Master of Science in Artificial Intelligence*      |  **GPA**: 3.45 / 4.0          |
+| :-------------------------------------------------- | ----------------------------: |
+
+<img src="https://github.com/user-attachments/assets/f12115cf-6fce-4590-87c4-867a14e46057" width="20"/> **Amrita Vishwa Vidyapeetham**  (*July 2019 – June 2023*)
+| *Bachelor of Technology in Aerospace Engineering*  |   **GPA**: 3.89 / 4.0         |
+| :-------------------------------------------------- | ----------------------------: |
+
+---
+
+
+**Relevant Courses**:  
+Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinforcement Learning, Deep Learning, Advanced Algorithm Analysis & Data Structures, Data Intensive Computing, Information Retrieval, Numerical Math.
+
+
+## 🛠️ Skills
+
+- **Programming:** Python, PySpark, SQL, Java, Shell Scripting, HTML, LaTeX, Apache Solr, C++.
+- **Machine Learning:** Transformers,  Parameter-Efficient Training, LoRA, Predictive Analytics, Feature Engineering, Clustering, Advanced Statistics, Reinforcement learning, Imitation learning, Large Language Models - Training, Fine-tuning, Quantization
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Hugging Face, Ollama, OpenGL, OpenCL, MMEngine, SMPLX, OSX, MuJoCo, CuDNN, ONNX Runtime, TensorRT, Hadoop, scikit-learn, Pandas, statsmodels, NumPy, OpenMMLab, CUDA, spaCy, NLTK, Raspberry Pi, Arduino, StableBaseline3. 
+- **Information Technology:** Linux, Cloud Computing, Distributed Computing, Big Data, OpenShift, Git, Postman, GCP.
+
 
 
 <!---
