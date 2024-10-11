@@ -96,16 +96,16 @@
 <tr>
   <td width="75%">
 
-  ### [Deal-no-deal: LLM Empowered Stock Market Predictor](https://github.com/dgusain/Deal-no-deal)  
-  *July 2024 ‑ August 2024*      [![DealNoDeal](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/Deal-no-deal)
+  ### [AutoInspector: AI Powered Product for Car detection and chatbot](https://github.com/dgusain/AutoInspector)  
+  *July 2024 ‑ August 2024*      [![DealNoDeal](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/AutoInspector)
 
-  - **Deployment:** LLM-driven system using **RAG architecture** and **FAISS** to assess the impact of news on stock prices.
+  - **Deployment:** LLM-driven system using **RAG architecture** and **FAISS** to operate a context aware chatbot, capable of maintaining history, and estimating car damage and maintenance costs, using user uploaded manuals
   - **Technologies:** **LLaMA-3 (8B, 70B)**, **Facebook FAISS**, **RAG**.
-  - **Achievements:** Integrated sentiment analysis with news credibility for accurate market predictions.
+  - **Achievements:** Integrated with computer vision (utilizing Mask-R CNN) leveraging ResNet-101, to detect the car damage based on vehicle images.
 
   </td>
   <td width="25%">
-    <img src="https://github.com/user-attachments/assets/dealnodeal" alt="DealNoDeal" width="200" height="150">
+    <img src="./cardamage_pipe.png" alt="AutoInspector" width="200" height="150">
   </td>
 </tr>
 </table>
