@@ -79,7 +79,7 @@
   <td width="75%">
   
   ### [Sign-Mimic: Robotic Hand Simulator for ASL](https://github.com/dgusain/SignMimic)  
-  *July 2024 - Present      [![SignMimic](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/SignMimic)
+  *July 2024 - Present      [![SignMimic](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/SignU)
 
   - **Project:** Robotic hand simulation model in **MuJoCo** for ASL communication using reinforcement learning.
   - **Technologies:** **SMPLX**, **Hands4Whole**, **Reinforced Imitation Learning**.
