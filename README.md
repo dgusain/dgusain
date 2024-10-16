@@ -87,7 +87,7 @@
   
   </td>
   <td width="25%">
-    <img src="https://github.com/dgusain/SignU/blob/main/ASL_A_tendon_mj.gif" alt="SignMimic" width="200" height="250">
+    <img src="https://github.com/dgusain/SignU/blob/main/ASL_AB_mj_git.gif" alt="SignMimic" width="200" height="250">
   </td>
 </tr>
 </table>
