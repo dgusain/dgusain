@@ -47,11 +47,11 @@
 <code><a href="https://www.scala-lang.org/"><img height="25" alt="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"><br>Scala</a></code>
 <code><a href="https://www.mysql.com/"><img height="25" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>SQL</a></code>
 <code><a href="https://www.mongodb.com/"><img height="25" alt="NoSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"><br>NoSQL</a></code>
-<!-- Web Development -->
+#### Web development
 <code><a href="https://reactjs.org/"><img height="25" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><br>React</a></code>
 <code><a href="https://nodejs.org/"><img height="25" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><br>Node.js</a></code>
 <code><a href="https://flask.palletsprojects.com/"><img height="25" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"><br>Flask</a></code>
-<!-- Data Management, Cloud computing -->
+#### Database management, Cloud Computing:
 <code><a href="https://cloud.google.com/"><img height="25" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"><br>GCP</a></code>
 <code><a href="https://kafka.apache.org/"><img height="25" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"><br>Apache Kafka</a></code>
 <code><a href="https://hadoop.apache.org/"><img height="25" alt="Hadoop HDFS" src="https://hadoop.apache.org/hadoop-logo.jpg"><br>Hadoop HDFS</a></code>
@@ -63,8 +63,7 @@
 <code><a href="https://spark.apache.org/sql/"><img height="25" alt="Spark-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg"><br>Spark-SQL</a></code>
 <code><a href="https://airflow.apache.org/"><img height="25" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg"><br>Airflow</a></code>
 
-
-### Machine Learning & Data Science:
+### Machine Learning, AI & Robotics:
 <code><a href="https://huggingface.co/"><img height="25" alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FCA121?logo=huggingface&logoColor=white"></a></code>
 <code><a href="https://github.com/facebookresearch/llama"><img height="25" alt="LLaMA" src="https://img.shields.io/badge/LLaMA-00BFFF?logo=llama&logoColor=white"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/windows/ai/windows-ml/onnx-runtime"><img height="25" alt="ONNX" src="https://img.shields.io/badge/ONNX-007396?logo=onnx&logoColor=white"></a></code>
@@ -72,6 +71,9 @@
 <code><a href="https://scikit-learn.org/"><img height="25" alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg"><br>scikit-learn</a></code>
 <code><a href="https://open-mim.org/"><img height="25" alt="OpenMim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmim/openmim-original.svg"><br>OpenMim</a></code>
 <code><a href="https://gymnasium.farama.org/"><img height="25" alt="Gymnasium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gymnasium/gymnasium-original.svg"><br>Gymnasium</a></code>
+<code><a href="https://www.blender.org/"><img height="25" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"><br>Blender</a></code>
+<code><a href="https://en.wikipedia.org/wiki/Computer-aided_design"><img height="25" alt="CAD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cad/cad-original.svg"><br>CAD</a></code>
+<code><a href="https://en.wikipedia.org/wiki/Computational_fluid_dynamics"><img height="25" alt="CFD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cfd/cfd-original.svg"><br>CFD</a></code>
 
 <!-- Visitor Count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=dgusain&label=Profile%20views&color=FF5733&style=flat)
