@@ -34,24 +34,26 @@
 ## 🛠️ Languages and Tools
 
 ### Programming Languages and Frameworks:
-<code><a href="https://www.python.org/"><img height="25" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a></code>
-<code><a href="https://www.mathworks.com/products/matlab.html"><img height="25" alt="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"></a></code>
-<code><a href="https://www.cprogramming.com/"><img height="25" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a></code>
-<code><a href="https://pytorch.org/"><img height="25" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></a></code>
-<code><a href="https://www.tensorflow.org/"><img height="25" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a></code>
-<code><a href="https://www.opengl.org/"><img height="25" alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"></a></code>
-<code><a href="https://cloud.google.com/"><img height="25" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></a></code>
+<code><a href="https://www.python.org/"><img height="25" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>Python</a></code>
+<code><a href="https://www.mathworks.com/products/matlab.html"><img height="25" alt="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"><br>MATLAB</a></code>
+<code><a href="https://www.cprogramming.com/"><img height="25" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"><br>C++</a></code>
+<code><a href="https://pytorch.org/"><img height="25" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"><br>PyTorch</a></code>
+<code><a href="https://www.tensorflow.org/"><img height="25" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"><br>TensorFlow</a></code>
+<code><a href="https://www.opengl.org/"><img height="25" alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"><br>OpenGL</a></code>
+<code><a href="https://cloud.google.com/"><img height="25" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"><br>GCP</a></code>
+
 <!-- Additions -->
-<code><a href="https://reactjs.org/"><img height="25" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
-<code><a href="https://nodejs.org/"><img height="25" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a></code>
-<code><a href="https://flask.palletsprojects.com/"><img height="25" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></a></code>
-<code><a href="https://git-scm.com/"><img height="25" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a></code>
-<code><a href="https://www.mysql.com/"><img height="25" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a></code>
-<code><a href="https://www.mongodb.com/"><img height="25" alt="NoSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a></code>
-<code><a href="https://kafka.apache.org/"><img height="25" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"></a></code>
-<code><a href="https://hadoop.apache.org/"><img height="25" alt="Hadoop HDFS" src="https://hadoop.apache.org/hadoop-logo.jpg"></a></code>
-<code><a href="https://kubernetes.io/"><img height="25" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a></code>
-<code><a href="https://aws.amazon.com/s3/"><img height="25" alt="Amazon S3" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg"></a></code>
+<code><a href="https://reactjs.org/"><img height="25" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><br>React</a></code>
+<code><a href="https://nodejs.org/"><img height="25" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><br>Node.js</a></code>
+<code><a href="https://flask.palletsprojects.com/"><img height="25" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"><br>Flask</a></code>
+<code><a href="https://git-scm.com/"><img height="25" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><br>Git</a></code>
+<code><a href="https://www.mysql.com/"><img height="25" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>SQL</a></code>
+<code><a href="https://www.mongodb.com/"><img height="25" alt="NoSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"><br>NoSQL</a></code>
+<code><a href="https://kafka.apache.org/"><img height="25" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"><br>Apache Kafka</a></code>
+<code><a href="https://hadoop.apache.org/"><img height="25" alt="Hadoop HDFS" src="https://hadoop.apache.org/hadoop-logo.jpg"><br>Hadoop HDFS</a></code>
+<code><a href="https://kubernetes.io/"><img height="25" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"><br>Kubernetes</a></code>
+<code><a href="https://aws.amazon.com/s3/"><img height="25" alt="Amazon S3" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg"><br>Amazon S3</a></code>
+
 
 
 ### Machine Learning & Data Science:
