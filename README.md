@@ -41,6 +41,18 @@
 <code><a href="https://www.tensorflow.org/"><img height="25" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></a></code>
 <code><a href="https://www.opengl.org/"><img height="25" alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"></a></code>
 <code><a href="https://cloud.google.com/"><img height="25" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"></a></code>
+<!-- Additions -->
+<code><a href="https://reactjs.org/"><img height="25" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
+<code><a href="https://nodejs.org/"><img height="25" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/"><img height="25" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"></a></code>
+<code><a href="https://git-scm.com/"><img height="25" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a></code>
+<code><a href="https://www.mysql.com/"><img height="25" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a></code>
+<code><a href="https://www.mongodb.com/"><img height="25" alt="NoSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a></code>
+<code><a href="https://kafka.apache.org/"><img height="25" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"></a></code>
+<code><a href="https://hadoop.apache.org/"><img height="25" alt="Hadoop HDFS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg"></a></code>
+<code><a href="https://kubernetes.io/"><img height="25" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a></code>
+<code><a href="https://aws.amazon.com/s3/"><img height="25" alt="Amazon S3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></a></code>
+
 
 ### Machine Learning & Data Science:
 <code><a href="https://huggingface.co/"><img height="25" alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FCA121?logo=huggingface&logoColor=white"></a></code>
