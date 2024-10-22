@@ -40,20 +40,28 @@
 <code><a href="https://pytorch.org/"><img height="25" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"><br>PyTorch</a></code>
 <code><a href="https://www.tensorflow.org/"><img height="25" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"><br>TensorFlow</a></code>
 <code><a href="https://www.opengl.org/"><img height="25" alt="OpenGL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"><br>OpenGL</a></code>
-<code><a href="https://cloud.google.com/"><img height="25" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"><br>GCP</a></code>
-
-<!-- Additions -->
+<code><a href="https://spark.apache.org/docs/latest/api/python/"><img height="25" alt="PySpark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"><br>PySpark</a></code>
+<code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img height="25" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"><br>C#</a></code>
+<code><a href="https://www.java.com/"><img height="25" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><br>Java</a></code>
+<code><a href="https://solr.apache.org/"><img height="25" alt="Apache Solr" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"><br>Apache Solr</a></code>
+<code><a href="https://www.scala-lang.org/"><img height="25" alt="Scala" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"><br>Scala</a></code>
+<code><a href="https://www.mysql.com/"><img height="25" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>SQL</a></code>
+<code><a href="https://www.mongodb.com/"><img height="25" alt="NoSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"><br>NoSQL</a></code>
+<!-- Web Development -->
 <code><a href="https://reactjs.org/"><img height="25" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><br>React</a></code>
 <code><a href="https://nodejs.org/"><img height="25" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><br>Node.js</a></code>
 <code><a href="https://flask.palletsprojects.com/"><img height="25" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"><br>Flask</a></code>
-<code><a href="https://git-scm.com/"><img height="25" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><br>Git</a></code>
-<code><a href="https://www.mysql.com/"><img height="25" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>SQL</a></code>
-<code><a href="https://www.mongodb.com/"><img height="25" alt="NoSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"><br>NoSQL</a></code>
+<!-- Data Management, Cloud computing -->
+<code><a href="https://cloud.google.com/"><img height="25" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"><br>GCP</a></code>
 <code><a href="https://kafka.apache.org/"><img height="25" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"><br>Apache Kafka</a></code>
 <code><a href="https://hadoop.apache.org/"><img height="25" alt="Hadoop HDFS" src="https://hadoop.apache.org/hadoop-logo.jpg"><br>Hadoop HDFS</a></code>
 <code><a href="https://kubernetes.io/"><img height="25" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"><br>Kubernetes</a></code>
 <code><a href="https://aws.amazon.com/s3/"><img height="25" alt="Amazon S3" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg"><br>Amazon S3</a></code>
-
+<code><a href="https://www.jenkins.io/"><img height="25" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"><br>Jenkins</a></code>
+<code><a href="https://azure.microsoft.com/en-us/"><img height="25" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"><br>Azure</a></code>
+<code><a href="https://databricks.com/"><img height="25" alt="Databricks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg"><br>Databricks</a></code>
+<code><a href="https://spark.apache.org/sql/"><img height="25" alt="Spark-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg"><br>Spark-SQL</a></code>
+<code><a href="https://airflow.apache.org/"><img height="25" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg"><br>Airflow</a></code>
 
 
 ### Machine Learning & Data Science:
@@ -61,6 +69,9 @@
 <code><a href="https://github.com/facebookresearch/llama"><img height="25" alt="LLaMA" src="https://img.shields.io/badge/LLaMA-00BFFF?logo=llama&logoColor=white"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/windows/ai/windows-ml/onnx-runtime"><img height="25" alt="ONNX" src="https://img.shields.io/badge/ONNX-007396?logo=onnx&logoColor=white"></a></code>
 <code><a href="https://opencv.org/"><img height="25" alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></a></code>
+<code><a href="https://scikit-learn.org/"><img height="25" alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg"><br>scikit-learn</a></code>
+<code><a href="https://open-mim.org/"><img height="25" alt="OpenMim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmim/openmim-original.svg"><br>OpenMim</a></code>
+<code><a href="https://gymnasium.farama.org/"><img height="25" alt="Gymnasium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gymnasium/gymnasium-original.svg"><br>Gymnasium</a></code>
 
 <!-- Visitor Count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=dgusain&label=Profile%20views&color=FF5733&style=flat)
