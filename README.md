@@ -51,7 +51,7 @@
 <code><a href="https://kafka.apache.org/"><img height="25" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"></a></code>
 <code><a href="https://hadoop.apache.org/"><img height="25" alt="Hadoop HDFS" src="https://hadoop.apache.org/hadoop-logo.jpg"></a></code>
 <code><a href="https://kubernetes.io/"><img height="25" alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></a></code>
-<code><a href="https://aws.amazon.com/s3/"><img height="25" alt="Amazon S3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></a></code>
+<code><a href="https://aws.amazon.com/s3/"><img height="25" alt="Amazon S3" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg"></a></code>
 
 
 ### Machine Learning & Data Science:
