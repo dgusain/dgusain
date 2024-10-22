@@ -182,8 +182,6 @@ Machine Learning, Pattern Recognition, Computer Vision & Image Processing, Reinf
 - **Machine Learning:** Transformers,  Parameter-Efficient Training, LoRA, Predictive Analytics, Feature Engineering, Clustering, Advanced Statistics, Reinforcement learning, Imitation learning, Large Language Models - Training, Fine-tuning, Quantization
 - **Frameworks/Libraries:** PyTorch, TensorFlow, Hugging Face, Ollama, OpenGL, OpenCL, MMEngine, SMPLX, OSX, MuJoCo, CuDNN, ONNX Runtime, TensorRT, Hadoop, scikit-learn, Pandas, statsmodels, NumPy, OpenMMLab, CUDA, spaCy, NLTK, Raspberry Pi, Arduino, StableBaseline3. 
 - **Information Technology:** Linux, Cloud Computing, Distributed Computing, Big Data, OpenShift, Git, Postman, GCP.
-
-## Publications: 
 <hr>
 <p><strong>Publications:</strong></p>
 <p>I am the second author in the publication cited below:</p>
