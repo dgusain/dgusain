@@ -61,7 +61,7 @@
 <code><a href="https://azure.microsoft.com/en-us/"><img height="25" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"><br>Azure</a></code>
 <code><a href="https://databricks.com/"><img height="25" alt="Databricks" src="https://imgs.search.brave.com/xAXUT3fLWaLGUnHwhvQtkakyteKQhrW2sjUQwv8TJ5E/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzVi/eXVsay9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl9pdTJxZm0zaDVp/YmIxLnBuZw"><br>Databricks</a></code>
 <code><a href="https://spark.apache.org/sql/"><img height="25" alt="Spark-SQL" src="https://spark.apache.org/images/spark-logo-rev.svg"><br>Spark-SQL</a></code>
-<code><a href="https://airflow.apache.org/"><img height="25" alt="Airflow" src="https://static.scarf.sh/a.png?x-pxid=7265a3c4-a6dd-4933-ba8b-9e3c13903c60"><br>Airflow</a></code>
+<code><a href="https://airflow.apache.org/"><img height="25" alt="Airflow" src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg"><br>Airflow</a></code>
 
 ### Machine Learning, AI & Robotics:
 <code><a href="https://huggingface.co/"><img height="25" alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FCA121?logo=huggingface&logoColor=white"></a></code>
