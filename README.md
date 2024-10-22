@@ -60,16 +60,16 @@
 <code><a href="https://www.jenkins.io/"><img height="25" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"><br>Jenkins</a></code>
 <code><a href="https://azure.microsoft.com/en-us/"><img height="25" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"><br>Azure</a></code>
 <code><a href="https://databricks.com/"><img height="25" alt="Databricks" src="https://imgs.search.brave.com/xAXUT3fLWaLGUnHwhvQtkakyteKQhrW2sjUQwv8TJ5E/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzVi/eXVsay9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl9pdTJxZm0zaDVp/YmIxLnBuZw"><br>Databricks</a></code>
-<code><a href="https://spark.apache.org/sql/"><img height="25" alt="Spark-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg"><br>Spark-SQL</a></code>
-<code><a href="https://airflow.apache.org/"><img height="25" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg"><br>Airflow</a></code>
+<code><a href="https://spark.apache.org/sql/"><img height="25" alt="Spark-SQL" src="https://spark.apache.org/images/spark-logo-rev.svg"><br>Spark-SQL</a></code>
+<code><a href="https://airflow.apache.org/"><img height="25" alt="Airflow" src="https://static.scarf.sh/a.png?x-pxid=7265a3c4-a6dd-4933-ba8b-9e3c13903c60"><br>Airflow</a></code>
 
 ### Machine Learning, AI & Robotics:
 <code><a href="https://huggingface.co/"><img height="25" alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FCA121?logo=huggingface&logoColor=white"></a></code>
 <code><a href="https://github.com/facebookresearch/llama"><img height="25" alt="LLaMA" src="https://img.shields.io/badge/LLaMA-00BFFF?logo=llama&logoColor=white"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/windows/ai/windows-ml/onnx-runtime"><img height="25" alt="ONNX" src="https://img.shields.io/badge/ONNX-007396?logo=onnx&logoColor=white"></a></code>
 <code><a href="https://opencv.org/"><img height="25" alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></a></code>
-<code><a href="https://scikit-learn.org/"><img height="25" alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg"><br>scikit-learn</a></code>
-<code><a href="https://open-mim.org/"><img height="25" alt="OpenMim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmim/openmim-original.svg"><br>OpenMim</a></code>
+<code><a href="https://scikit-learn.org/"><img height="25" alt="scikit-learn" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"><br>scikit-learn</a></code>
+<code><a href="https://pypi.org/project/openmim/"><img height="25" alt="OpenMim" src="https://pypi.org/static/images/logo-small.8998e9d1.svg"><br>OpenMim</a></code>
 <code><a href="https://gymnasium.farama.org/"><img height="25" alt="Gymnasium" src="https://gymnasium.farama.org/_static/img/gymnasium_white.svg"><br>Gymnasium</a></code>
 <code><a href="https://www.blender.org/"><img height="25" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"><br>Blender</a></code>
 <code><a href="https://www.autodesk.com/products/autocad/overview"><img height="25" alt="CAD" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/autocad-2023-simplified-badge-75x75.png"><br>AutoCAD</a></code>
