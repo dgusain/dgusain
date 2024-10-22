@@ -59,7 +59,7 @@
 <code><a href="https://aws.amazon.com/s3/"><img height="25" alt="Amazon S3" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg"><br>Amazon S3</a></code>
 <code><a href="https://www.jenkins.io/"><img height="25" alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"><br>Jenkins</a></code>
 <code><a href="https://azure.microsoft.com/en-us/"><img height="25" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"><br>Azure</a></code>
-<code><a href="https://databricks.com/"><img height="25" alt="Databricks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg"><br>Databricks</a></code>
+<code><a href="https://databricks.com/"><img height="25" alt="Databricks" src="https://imgs.search.brave.com/xAXUT3fLWaLGUnHwhvQtkakyteKQhrW2sjUQwv8TJ5E/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzVi/eXVsay9zdHlsZXMv/Y29tbXVuaXR5SWNv/bl9pdTJxZm0zaDVp/YmIxLnBuZw"><br>Databricks</a></code>
 <code><a href="https://spark.apache.org/sql/"><img height="25" alt="Spark-SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg"><br>Spark-SQL</a></code>
 <code><a href="https://airflow.apache.org/"><img height="25" alt="Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg"><br>Airflow</a></code>
 
@@ -70,10 +70,9 @@
 <code><a href="https://opencv.org/"><img height="25" alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></a></code>
 <code><a href="https://scikit-learn.org/"><img height="25" alt="scikit-learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg"><br>scikit-learn</a></code>
 <code><a href="https://open-mim.org/"><img height="25" alt="OpenMim" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openmim/openmim-original.svg"><br>OpenMim</a></code>
-<code><a href="https://gymnasium.farama.org/"><img height="25" alt="Gymnasium" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gymnasium/gymnasium-original.svg"><br>Gymnasium</a></code>
+<code><a href="https://gymnasium.farama.org/"><img height="25" alt="Gymnasium" src="https://gymnasium.farama.org/_static/img/gymnasium_white.svg"><br>Gymnasium</a></code>
 <code><a href="https://www.blender.org/"><img height="25" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"><br>Blender</a></code>
-<code><a href="https://en.wikipedia.org/wiki/Computer-aided_design"><img height="25" alt="CAD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cad/cad-original.svg"><br>CAD</a></code>
-<code><a href="https://en.wikipedia.org/wiki/Computational_fluid_dynamics"><img height="25" alt="CFD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cfd/cfd-original.svg"><br>CFD</a></code>
+<code><a href="https://www.autodesk.com/products/autocad/overview"><img height="25" alt="CAD" src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/autocad-2023-simplified-badge-75x75.png"><br>AutoCAD</a></code>
 
 <!-- Visitor Count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=dgusain&label=Profile%20views&color=FF5733&style=flat)
