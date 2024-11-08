@@ -105,16 +105,16 @@
 <tr>
   <td width="75%">
   
-  ### [Sign-Mimic: Robotic Hand Simulator for ASL](https://github.com/dgusain/SignMimic)  
+  ### [Sign-U: Robotic Hand Simulator for ASL](https://github.com/dgusain/SignU)  
   *July 2024 - Present      [![SignMimic](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/SignU)
 
-  - **Project:** Robotic hand simulation model in **MuJoCo** for ASL communication using reinforcement learning.
-  - **Technologies:** **SMPLX**, **Hands4Whole**, **Reinforced Imitation Learning**.
-  - **Achievements:** Developed an architecture capable of mapping ASL poses to a 24-joint robotic hand simulation.
+  - **Project:** Reinforced Imitation Learning of Robotic hand model for reality-based dynamic movement (collision free), for performing hand gestures in American Sign Language.
+  - **Technologies:** **SMPLX**, **Hands4Whole**, **Reinforced Imitation Learning**,**CUDA**, **PPO**,**Actor Critic**,**Graph Neural networks**,**Attention**, **Encoder-Decoder models**,**Imitation learning**.
+  - **Achievements:** Deployed reinforcement learning pipeline to map 15 SMPLX joints to a 24 dof robotic hand model, achieving 98% confidence score. 
   
   </td>
   <td width="25%">
-    <img src="https://github.com/dgusain/SignU/blob/main/ASL_AB_mj_git.gif" alt="SignMimic" width="250" height="200">
+    <img src="https://github.com/dgusain/SignU/blob/main/ASL_AB_mj_git.gif" alt="SignU" width="250" height="200">
   </td>
 </tr>
 </table>
