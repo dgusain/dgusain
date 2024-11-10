@@ -2,7 +2,7 @@
 
 <!-- Resume, LeetCode, and Website Links -->
 <p align="center">
-  📄 <a href="./dgusain_rl_res_01.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/dgusain_31/">LeetCode</a> | 🌐 <a href="https://dgusain.github.io">Portfoliob</a> | 🌐 <a href="https://linkedin.com/in/dgusain04">LinkedIn</a>
+  📄 <a href="./dgusain_rl_res_01.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/dgusain_31/">LeetCode</a> | 🌐 <a href="https://dgusain.github.io">Portfolio</a> | 🌐 <a href="https://linkedin.com/in/dgusain04">LinkedIn</a>
 </p>
 
 <!-- Dynamic Typing SVG for Welcome Message -->
