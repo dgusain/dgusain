@@ -2,7 +2,11 @@
 
 <!-- Resume, LeetCode, and Website Links -->
 <p align="center">
-  📄 <a href="./dgusain_rl_res_01.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/dgusain_31/">LeetCode</a> | 🌐 <a href="https://dgusain.github.io">Portfolio</a> | 🌐 <a href="https://linkedin.com/in/dgusain04">LinkedIn</a> | 📺 <a href="https://www.youtube.com/@plushy_ducky">Youtube</a> | 🎵 <a href="https://soundcloud.com/plushy-duck">Soundcloud</a>
+  📄 <a href="./dgusain_rl_res_01.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/dgusain_31/">LeetCode</a> | 🌐 <a href="https://dgusain.github.io">Portfolio</a> | 🌐 <a href="https://linkedin.com/in/dgusain04">LinkedIn</a> | <a href="https://www.youtube.com/@plushy_ducky" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
+</a> | <a href="https://soundcloud.com/plushy-duck" target="_blank">
+  <img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud">
+</a>
 </p>
 
 <!-- Dynamic Typing SVG for Welcome Message -->
@@ -30,9 +34,7 @@
 ## 📺 YouTube
 
 <!-- YouTube Badge -->
-<a href="https://www.youtube.com/@plushy_ducky" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
-</a>
+
 
 <!-- Showcase Latest Video -->
 [![Latest Video](https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg)](https://youtu.be/sIYhSo0SlqI?si=BJaADM30wE7pizF4)
@@ -40,9 +42,7 @@
 ## 🎵 SoundCloud
 
 <!-- SoundCloud Badge -->
-<a href="https://soundcloud.com/plushy-duck" target="_blank">
-  <img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud">
-</a>
+
 
 <!-- Listen to Latest Track -->
 [![Listen on SoundCloud](https://img.shields.io/badge/Listen_on-SoundCloud-F05032?logo=soundcloud&logoColor=white)](https://on.soundcloud.com/coZ7eXq1zuRaW2nS8)
