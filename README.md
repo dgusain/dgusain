@@ -26,7 +26,26 @@
 
 - **👯 Looking to Collaborate On:** AI in robotics, **LLM based applications**, **Computer vision**, and **multi-modal AI**.
 
-- ⚡ **Highlight:** I engineered a cutting-edge, autonomous biomedical device under $300 for a 20-member biomedical research team collaborating across three universities. Remarkably, this device delivers performance equivalent to $45,000 industry-standard equipment, boosting our team's operational efficiency by 200% and cutting experimental time by 66%. [Explore the project here](https://github.com/dgusain/MIST).
+- ⚡ **Hobbies:** I create music in my free time. You can check it out here. 
+## 📺 YouTube
+
+<!-- YouTube Badge -->
+<a href="https://www.youtube.com/@plushy_ducky" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<!-- Showcase Latest Video -->
+[![Latest Video](https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg)](https://youtu.be/sIYhSo0SlqI?si=BJaADM30wE7pizF4)
+
+## 🎵 SoundCloud
+
+<!-- SoundCloud Badge -->
+<a href="https://soundcloud.com/plushy-duck" target="_blank">
+  <img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud">
+</a>
+
+<!-- Listen to Latest Track -->
+[![Listen on SoundCloud](https://img.shields.io/badge/Listen_on-SoundCloud-F05032?logo=soundcloud&logoColor=white)](https://on.soundcloud.com/coZ7eXq1zuRaW2nS8)
 
   
 - **📫 How to Reach Me:** [dgusain@buffalo.edu](mailto:dgusain@buffalo.edu)
