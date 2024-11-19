@@ -36,17 +36,17 @@
     <!-- YouTube Latest Video -->
     <td align="center">
       <a href="https://youtu.be/sIYhSo0SlqI?si=BJaADM30wE7pizF4" target="_blank">
-        <img src="https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg" alt="Latest YouTube Video" width="300" height="300"/>
+        <img src="https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg" alt="Latest YouTube Video" width="400" height="300"/>
       </a>
       <br/>
-      **Dreamscaping duality**
+      Dreamscaping duality (YouTube)
     </td>
     <td align="center">
       <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
         <img src="./sin-jong-hun-1681235659318.jpg" alt="Latest SoundCloud Track" width="300" height="300"/>
       </a>
       <br/>
-      **Dreamscaping duality**
+      Cherry Blooms (SoundCloud)
     </td>
   </tr>
 </table>
