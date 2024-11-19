@@ -31,21 +31,22 @@
 - **👯 Looking to Collaborate On:** AI in robotics, **LLM based applications**, **Computer vision**, and **multi-modal AI**.
 
 - ⚡ **Hobbies:** I create music in my free time. You can check it out here. 
-## 📺 YouTube
 
-<!-- YouTube Badge -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+  <!-- YouTube Latest Video -->
+  <a href="https://youtu.be/sIYhSo0SlqI?si=BJaADM30wE7pizF4" target="_blank">
+    <img src="https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg" alt="Latest YouTube Video" width="300"/>
+  </a>
+
+  <!-- SoundCloud Latest Track -->
+  <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
+    <img src="https://img.shields.io/badge/Listen_on-SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="Listen on SoundCloud" />
+  </a>
+
+</div>
 
 
-<!-- Showcase Latest Video -->
-[![Latest Video](https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg)](https://youtu.be/sIYhSo0SlqI?si=BJaADM30wE7pizF4)
-
-## 🎵 SoundCloud
-
-<!-- SoundCloud Badge -->
-
-
-<!-- Listen to Latest Track -->
-[![Listen on SoundCloud](https://img.shields.io/badge/Listen_on-SoundCloud-F05032?logo=soundcloud&logoColor=white)](https://on.soundcloud.com/coZ7eXq1zuRaW2nS8)
 
   
 - **📫 How to Reach Me:** [dgusain@buffalo.edu](mailto:dgusain@buffalo.edu)
