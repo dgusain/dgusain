@@ -41,7 +41,7 @@
 
   <!-- SoundCloud Latest Track -->
   <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
-    <img src="https://img.shields.io/badge/Listen_on-SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="Listen on SoundCloud" />
+    <img src="https://i.imgur.com/YourSoundCloudThumbnail.png" alt="Latest SoundCloud Track" width="300"/>
   </a>
 
 </div>
