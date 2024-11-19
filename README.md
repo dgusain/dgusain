@@ -39,7 +39,7 @@
         <img src="https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg" alt="Latest YouTube Video" width="450" height="300"/>
       </a>
       <br/>
-      Dreamscaping duality (YouTube)
+      Dreamscaping duality <a href="https://youtu.be/sIYhSo0SlqI?si=Nja15ZEpwBjj4N26" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a> 
     </td>
     <td align="center">
       <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
