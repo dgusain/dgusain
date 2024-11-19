@@ -41,7 +41,7 @@
 
   <!-- SoundCloud Latest Track -->
   <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
-    <img src="https://i.imgur.com/YourSoundCloudThumbnail.png" alt="Latest SoundCloud Track" width="300"/>
+    <img src="./sin-jong-hun-1681235659318.jpg" alt="Latest SoundCloud Track" width="300"/>
   </a>
 
 </div>
