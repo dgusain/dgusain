@@ -31,22 +31,25 @@
 - **👯 Looking to Collaborate On:** AI in robotics, **LLM based applications**, **Computer vision**, and **multi-modal AI**.
 
 - ⚡ **Hobbies:** I create music in my free time. You can check it out here. 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <figure>
-    <a href="https://youtu.be/sIYhSo0SlqI?si=BJaADM30wE7pizF4" target="_blank">
-      <img src="https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg" alt="Latest YouTube Video" width="300" height="300"/>
-    </a>
-    <figcaption>Dreamscaping duality (Youtube)</figcaption>
-  </figure>
-  
-  <figure>
-    <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
-      <img src="./sin-jong-hun-1681235659318.jpg" alt="Latest SoundCloud Track" width="300" height="300"/>
-    </a>
-    <figcaption>Cherry Blooms (SoundCloud)</figcaption>
-  </figure>
-
-</div>
+<table>
+  <tr>
+    <!-- YouTube Latest Video -->
+    <td align="center">
+      <a href="https://youtu.be/sIYhSo0SlqI?si=BJaADM30wE7pizF4" target="_blank">
+        <img src="https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg" alt="Latest YouTube Video" width="300" height="300"/>
+      </a>
+      <br/>
+      **Dreamscaping duality**
+    </td>
+    <td align="center">
+      <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
+        <img src="./sin-jong-hun-1681235659318.jpg" alt="Latest SoundCloud Track" width="300" height="300"/>
+      </a>
+      <br/>
+      **Dreamscaping duality**
+    </td>
+  </tr>
+</table>
 
 
 
