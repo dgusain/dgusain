@@ -31,7 +31,7 @@
 - **👯 Looking to Collaborate On:** AI in robotics, **LLM based applications**, **Computer vision**, and **multi-modal AI**.
 - **Low-key Flex**: Google me! 90% of the content on the first page, is mine!
 
-- ⚡ **Hobbies:** I create music in my free time. You can check it out here. 
+- ⚡ **Hobbies:** I create music in my free time. You can check it out here. I also write blogs on outer space and extraterrestrial life.
 <table>
   <tr>
     <!-- YouTube Latest Video -->
@@ -49,9 +49,17 @@
       <br/>
       Cherry Blooms <a href="https://on.soundcloud.com/SpaH4dygZzk1wY6C8" target="_blank"> <img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud"></a>
     </td>
+    <td align="center">
+      <a href="https://edgeofspace.in/what-if-you-were-born-in-outer-space/" target="_blank">
+        <img src="https://edgeofspace.in/wp-content/webp-express/webp-images/uploads/2021/06/born-in-spae-fi-800x400.png.webp" alt="Baby in Outer Space" width="200" height="300"/>
+      </a>
+      <br/>
+      Blog: What if you were born in outer space?
+    </td>
   </tr>
 </table>
-  
+
+
 - **📫 How to Reach Me:** [dgusain@buffalo.edu](mailto:dgusain@buffalo.edu)
 
 ## 🛠️ Languages and Tools
