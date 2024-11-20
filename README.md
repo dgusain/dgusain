@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
 </a> | <a href="https://soundcloud.com/plushy-duck" target="_blank">
   <img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud">
-</a>
+</a> | <a href="https://ducky_sg.artstation.com" target="_blank"> <img src="https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=white" alt="ArtStation"></a>
 </p>
 
 <!-- Dynamic Typing SVG for Welcome Message -->
