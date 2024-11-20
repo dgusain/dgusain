@@ -113,7 +113,7 @@
 </table>
 
 ## Publications
-<p>Murugan, Udhayakumar, Dakshesh Gusain, Baskar Balasubramani, Sagar Srivastava, Sai Ganesh, Srikrishnan Ambattu Raghavannambiar, and Kannan Ramaraj. 2024. “A Comprehensive Review of Environment-Friendly Biomimetic Bionic Superhydrophobic Surfaces.” <em>Biofouling</em>, October, 1–23. <a href="https://pubmed.ncbi.nlm.nih.gov/39422280/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PubMed-1497FF?logo=pubmed&logoColor=white" alt="PubMed Article"></a><a href="https://doi.org/10.1080/08927014.2024.2414922" target="_blank">doi:10.1080/08927014.2024.2414922</a>.</p>
+<p>Murugan, Udhayakumar, Dakshesh Gusain, Baskar Balasubramani, Sagar Srivastava, Sai Ganesh, Srikrishnan Ambattu Raghavannambiar, and Kannan Ramaraj. 2024. “A Comprehensive Review of Environment-Friendly Biomimetic Bionic Superhydrophobic Surfaces.” <em>Biofouling</em>, October, 1–23. <a href="https://pubmed.ncbi.nlm.nih.gov/39422280/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PubMed-1497FF?logo=pubmed&logoColor=white" alt="PubMed Article"></a></p>
 
 ## 🛠️ Languages and Tools
 
