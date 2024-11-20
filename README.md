@@ -181,12 +181,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" alt="Footer Animation" height="20" width="100%">
 </p>
 
----
-
-
-
-
-
 ## 🎓 Education
 
 <img src="./university-at-buffalo.webp" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  (*August 2023 – May 2025*)
