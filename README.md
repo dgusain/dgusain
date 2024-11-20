@@ -51,7 +51,7 @@
     </td>
     <td align="center">
       <a href="https://edgeofspace.in/what-if-you-were-born-in-outer-space/" target="_blank">
-        <img src="https://edgeofspace.in/wp-content/webp-express/webp-images/uploads/2021/06/born-in-spae-fi-800x400.png.webp" alt="Baby in Outer Space" width="350" height="300"/>
+        <img src="https://edgeofspace.in/wp-content/webp-express/webp-images/uploads/2021/06/born-in-spae-fi-800x400.png.webp" alt="Baby in Outer Space" width="400" height="300"/>
       </a>
       <br/>
       Blog: What if you were born in outer space?
