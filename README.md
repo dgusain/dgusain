@@ -20,7 +20,7 @@
 <!-- Intro Section -->
 - 👋 **Greetings fellow AI and Robotics enthusiasts!** I'm **Dakshesh Gusain**, an AI researcher with hands-on experience in developing multimodal Large Language Models (LLMs) and robotics for healthcare applications, such as speech-language therapy and American Sign Language (ASL) communication.
   
-- **🌱 Learning:** I specialize in **Multimodal LLM Finetuning** and **Reinforcement Learning**, focusing on applications of AI. 
+- **🌱 Learning:** I specialize in **Multimodal LLMs** and **Reinforcement Learning**, focusing on applications of AI.
   
 - **🔭 Current Work:** I am actively engaged in several interdisciplinary research projects:
   - **MISTY 2 Speech-Language Therapy Robot**: Employing multimodal LLMs like meta-llama-3.1-8b, meta-llama-3.2-(1b,3b,11b-vision) to social robotics, to enable human-like conversation between human and robot with minimal latency of 1.71 seconds.
@@ -29,6 +29,7 @@
 - **👨‍💼 Experience:** I have worked as a Research Assistant at the **Center for Unified Biometrics and Sensors (CUBS)** and the **SUNY Research Foundation** at the **University at Buffalo**, developing LLMs and AI-driven systems for healthcare applications. Additionally, I led the creation of a **low-cost autonomous biomedical device** for a 20-member biomedical research team across three universities (patent pending).
 
 - **👯 Looking to Collaborate On:** AI in robotics, **LLM based applications**, **Computer vision**, and **multi-modal AI**.
+- **Low-key Flex**: Google me! 90% of the content on the first page, is mine!
 
 - ⚡ **Hobbies:** I create music in my free time. You can check it out here. 
 <table>
