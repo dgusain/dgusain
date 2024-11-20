@@ -2,13 +2,8 @@
 
 <!-- Resume, LeetCode, and Website Links -->
 <p align="center">
-  📄 <a href="./dgusain_rl_res_01.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/dgusain_31/">LeetCode</a> | 🌐 <a href="https://dgusain.github.io">Portfolio</a> | 🌐 <a href="https://linkedin.com/in/dgusain04">LinkedIn</a> | <a href="https://www.youtube.com/@plushy_ducky" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube">
-</a> | <a href="https://soundcloud.com/plushy-duck" target="_blank">
-  <img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud">
-</a> | <a href="https://ducky_sg.artstation.com" target="_blank"> <img src="https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=white" alt="ArtStation"></a>
+  📄 <a href="./dgusain_rl_res_01.pdf">Resume</a> | 🐱‍💻 <a href="https://leetcode.com/u/dgusain_31/">LeetCode</a> | 🌐 <a href="https://dgusain.github.io">Portfolio</a> | <a href="https://linkedin.com/in/dgusain04" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a> | <a href="https://www.youtube.com/@plushy_ducky" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a> | <a href="https://soundcloud.com/plushy-duck" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud"></a> | <a href="https://ducky_sg.artstation.com" target="_blank"> <img src="https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=white" alt="ArtStation"></a> | <a href="mailto:dgusain@buffalo.edu" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
 <!-- Dynamic Typing SVG for Welcome Message -->
 <!-- Centered Typing SVG -->
 <div align="center">
@@ -59,8 +54,65 @@
   </tr>
 </table>
 
+## 🚀 Projects
 
-- **📫 How to Reach Me:** [dgusain@buffalo.edu](mailto:dgusain@buffalo.edu)
+<table>
+<tr>
+  <td width="75%">
+  
+  ### [Sign-U: Robotic Hand Simulator for ASL](https://github.com/dgusain/SignU)  
+  *July 2024 - Present      [![SignMimic](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/SignU)
+
+  - **Project:** Reinforced Imitation Learning of Robotic hand model for reality-based dynamic movement (collision free), for performing hand gestures in American Sign Language.
+  - **Technologies:** **SMPLX**, **Hands4Whole**, **Reinforced Imitation Learning**,**CUDA**, **PPO**,**Actor Critic**,**Graph Neural networks**,**Attention**, **Encoder-Decoder models**,**Imitation learning**.
+  - **Achievements:** Deployed reinforcement learning pipeline to map 15 SMPLX joints to a 24 dof robotic hand model, achieving 98% confidence score. 
+  
+  </td>
+  <td width="25%">
+    <img src="https://github.com/dgusain/SignU/blob/main/ASL_AB_mj_git.gif" alt="SignU" width="250" height="200">
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+  <td width="75%">
+
+  ### [AutoInspector: AI Powered Product for Car detection and chatbot](https://github.com/dgusain/AutoInspector)  
+  *July 2024 ‑ August 2024*      [![DealNoDeal](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/AutoInspector)
+
+  - **Deployment:** LLM-driven system using **RAG architecture** and **FAISS** to operate a context aware chatbot, capable of maintaining history, and estimating car damage and maintenance costs, using user uploaded manuals
+  - **Technologies:** **LLaMA-3 (8B, 70B)**, **Facebook FAISS**, **RAG**.
+  - **Achievements:** Integrated with computer vision (utilizing Mask-R CNN) leveraging ResNet-101, to detect the car damage based on vehicle images.
+
+  </td>
+  <td width="25%">
+    <img src="./cardamage_pipe.png" alt="AutoInspector" width="200" height="150">
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+  <td width="75%">
+
+  ### [NeuroBeatsDL](https://github.com/dgusain/NeuroBeatsDL)  
+  *July 2024 ‑ August 2024*      [![NeuroBeatsDL](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/NeuroBeatsDL)
+
+  - **Project:** Reconstructing functional human brain networks modelling changes in attention span, in the presence and absence of external stimuli (like white noise). 
+  - **Technologies:** **EEGLAB**, **MATLAB**, **Variational Autoencoders**, **Conditional Generative Adversarial Networks (GANs)**, **CNN,LSTM models**, **Python**, **BioSemi ActiveView2**.
+  - **Achievements:** Developed a novel metric, capable of representing the information of 32 EEG channels across 5 brain frequency waves, providing a definitive comparison of attention. 
+  - **Extra mile:** Performed next frame prediction of the human brain neural activity using GANs and CNN+LSTM models to predict the next state of the human brain.  
+
+  </td>
+  <td width="25%">
+    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="250" height="250">
+  </td>
+
+</tr>
+</table>
+
+
 
 ## 🛠️ Languages and Tools
 
@@ -130,63 +182,7 @@
 
 ---
 
-## 🚀 Projects
 
-<table>
-<tr>
-  <td width="75%">
-  
-  ### [Sign-U: Robotic Hand Simulator for ASL](https://github.com/dgusain/SignU)  
-  *July 2024 - Present      [![SignMimic](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/SignU)
-
-  - **Project:** Reinforced Imitation Learning of Robotic hand model for reality-based dynamic movement (collision free), for performing hand gestures in American Sign Language.
-  - **Technologies:** **SMPLX**, **Hands4Whole**, **Reinforced Imitation Learning**,**CUDA**, **PPO**,**Actor Critic**,**Graph Neural networks**,**Attention**, **Encoder-Decoder models**,**Imitation learning**.
-  - **Achievements:** Deployed reinforcement learning pipeline to map 15 SMPLX joints to a 24 dof robotic hand model, achieving 98% confidence score. 
-  
-  </td>
-  <td width="25%">
-    <img src="https://github.com/dgusain/SignU/blob/main/ASL_AB_mj_git.gif" alt="SignU" width="250" height="200">
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
-  <td width="75%">
-
-  ### [AutoInspector: AI Powered Product for Car detection and chatbot](https://github.com/dgusain/AutoInspector)  
-  *July 2024 ‑ August 2024*      [![DealNoDeal](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/AutoInspector)
-
-  - **Deployment:** LLM-driven system using **RAG architecture** and **FAISS** to operate a context aware chatbot, capable of maintaining history, and estimating car damage and maintenance costs, using user uploaded manuals
-  - **Technologies:** **LLaMA-3 (8B, 70B)**, **Facebook FAISS**, **RAG**.
-  - **Achievements:** Integrated with computer vision (utilizing Mask-R CNN) leveraging ResNet-101, to detect the car damage based on vehicle images.
-
-  </td>
-  <td width="25%">
-    <img src="./cardamage_pipe.png" alt="AutoInspector" width="200" height="150">
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
-  <td width="75%">
-
-  ### [NeuroBeatsDL](https://github.com/dgusain/NeuroBeatsDL)  
-  *July 2024 ‑ August 2024*      [![NeuroBeatsDL](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dgusain/NeuroBeatsDL)
-
-  - **Project:** Reconstructing functional human brain networks modelling changes in attention span, in the presence and absence of external stimuli (like white noise). 
-  - **Technologies:** **EEGLAB**, **MATLAB**, **Variational Autoencoders**, **Conditional Generative Adversarial Networks (GANs)**, **CNN,LSTM models**, **Python**, **BioSemi ActiveView2**.
-  - **Achievements:** Developed a novel metric, capable of representing the information of 32 EEG channels across 5 brain frequency waves, providing a definitive comparison of attention. 
-  - **Extra mile:** Performed next frame prediction of the human brain neural activity using GANs and CNN+LSTM models to predict the next state of the human brain.  
-
-  </td>
-  <td width="25%">
-    <img src="https://github.com/dgusain/NeuroBeatsDL/blob/main/EEG_3D_Rotation.gif" alt="NeuroBeatsDL" width="250" height="250">
-  </td>
-
-</tr>
-</table>
 
 
 
