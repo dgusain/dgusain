@@ -13,7 +13,7 @@
 <!-- Centered Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Ducky's+GitHub!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Google+Me+!" alt="Typing SVG">
   </a>
 </div>
 
