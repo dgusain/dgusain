@@ -32,21 +32,21 @@
     <!-- YouTube Latest Video -->
     <td align="center">
       <a href="https://youtu.be/sIYhSo0SlqI?si=BJaADM30wE7pizF4" target="_blank">
-        <img src="https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg" alt="Latest YouTube Video" width="450" height="300"/>
+        <img src="https://img.youtube.com/vi/sIYhSo0SlqI/maxresdefault.jpg" alt="Latest YouTube Video" width="450" height="200"/>
       </a>
       <br/>
       Dreamscaping duality <a href="https://youtu.be/sIYhSo0SlqI?si=Nja15ZEpwBjj4N26" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a> 
     </td>
     <td align="center">
       <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
-        <img src="./sin-jong-hun-1681235659318.jpg" alt="Latest SoundCloud Track" width="400" height="300"/>
+        <img src="./sin-jong-hun-1681235659318.jpg" alt="Latest SoundCloud Track" width="400" height="200"/>
       </a>
       <br/>
       Cherry Blooms <a href="https://on.soundcloud.com/SpaH4dygZzk1wY6C8" target="_blank"> <img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud"></a>
     </td>
     <td align="center">
       <a href="https://edgeofspace.in/what-if-you-were-born-in-outer-space/" target="_blank">
-        <img src="https://edgeofspace.in/wp-content/webp-express/webp-images/uploads/2021/06/born-in-spae-fi-800x400.png.webp" alt="Baby in Outer Space" width="500" height="300"/>
+        <img src="https://edgeofspace.in/wp-content/webp-express/webp-images/uploads/2021/06/born-in-spae-fi-800x400.png.webp" alt="Baby in Outer Space" width="500" height="200"/>
       </a>
       <br/>
       Blog: What if you were born in outer space?
