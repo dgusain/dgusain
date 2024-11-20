@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <a href="https://on.soundcloud.com/coZ7eXq1zuRaW2nS8" target="_blank">
-        <img src="./sin-jong-hun-1681235659318.jpg" alt="Latest SoundCloud Track" width="400" height="200"/>
+        <img src="./sin-jong-hun-1681235659318.jpg" alt="Latest SoundCloud Track" width="300" height="200"/>
       </a>
       <br/>
       Cherry Blooms <a href="https://on.soundcloud.com/SpaH4dygZzk1wY6C8" target="_blank"> <img src="https://img.shields.io/badge/SoundCloud-F05032?logo=soundcloud&logoColor=white" alt="SoundCloud"></a>
