@@ -23,7 +23,7 @@
     
 - **👨‍💼 Experience:** I have worked as a Research Assistant at the **Center for Unified Biometrics and Sensors (CUBS)** and the **SUNY Research Foundation** at the **University at Buffalo**, developing LLMs and AI-driven systems for healthcare applications. Additionally, I led the creation of a **low-cost autonomous biomedical device** for a 20-member biomedical research team across three universities (patent pending).
 
-- **👯 Looking to Collaborate On:** AI in robotics, **LLM based applications**, **Computer vision**, and **multi-modal AI**.
+- **👯 Looking to Collaborate On:** AI in robotics, **LLM based applications**, **Ethics in AI**, and **multi-modal AI**.
 - **Low-key Flex**: Google me! 90% of the content on the first page, is mine!
 
 - ⚡ **Hobbies:** I create music in my free time. You can check it out here. I also write blogs on outer space and extraterrestrial life.
