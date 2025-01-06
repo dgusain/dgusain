@@ -8,7 +8,7 @@
 <!-- Centered Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=3000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Wanna+know+more+about+me+?+Google+Me+!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=3000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Ducky's+Lair!!+Cat+Dad+!" alt="Typing SVG">
   </a>
 </div>
 
