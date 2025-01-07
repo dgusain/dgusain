@@ -69,7 +69,7 @@
   
   </td>
   <td width="25%">
-    <img src="https://github.com/dgusain/SignU/blob/main/ASL_AB_mj_git.gif" alt="SignU" width="250" height="200">
+    <img src="https://github.com/dgusain/SignU/blob/main/gallery/ASL_AB_mj_git.gif" alt="SignU" width="250" height="200">
   </td>
 </tr>
 </table>
