@@ -184,7 +184,7 @@
 ## 🎓 Education
 
 <img src="./university-at-buffalo.webp" alt="University at Buffalo" width="20"/> **University at Buffalo, The State University of New York**  (*August 2023 – May 2025*)
-| *Master of Science in Artificial Intelligence*      |  **GPA**: 3.45 / 4.0          |
+| *Master of Science in Artificial Intelligence*      |  **GPA**: 3.52 / 4.0          |
 | :-------------------------------------------------- | ----------------------------: |
 
 <img src="https://github.com/user-attachments/assets/f12115cf-6fce-4590-87c4-867a14e46057" width="20"/> **Amrita Vishwa Vidyapeetham**  (*July 2019 – June 2023*)
